@@ -1,4 +1,4 @@
-require './lib/yatranslate/errors'
+require 'yatranslate/errors'
 require 'json'
 require 'httpclient'
 require 'uri'
