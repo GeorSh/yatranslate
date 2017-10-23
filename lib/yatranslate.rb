@@ -1,4 +1,4 @@
-require 'yatranslate/gateway'
+require 'lib/yatranslate/gateway'
 require 'yatranslate/version'
 
 module Yatranslate
